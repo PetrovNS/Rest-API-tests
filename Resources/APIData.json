@@ -1,0 +1,8 @@
+{
+  "MainUrl": "https://jsonplaceholder.typicode.com/",
+  "GetAllPosts": "/posts",
+  "GetAllUsers": "/users",
+  "GetPost": "/posts/{0}",
+  "GetUser": "/users/{0}",
+  "ContentType": "json"
+}
